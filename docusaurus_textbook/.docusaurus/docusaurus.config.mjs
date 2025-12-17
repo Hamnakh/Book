@@ -9,7 +9,7 @@ export default {
   "favicon": "img/favicon.ico",
   "url": "https://muzaffar4011.github.io",
   "baseUrl": "/Physical-AI-Humanoid-Robotics-Book-/",
-  "organizationName": "muzaffar4011",
+  "organizationName": "Hamnakh",
   "projectName": "Physical-AI-Humanoid-Robotics-Book-",
   "deploymentBranch": "gh-pages",
   "onBrokenLinks": "throw",
