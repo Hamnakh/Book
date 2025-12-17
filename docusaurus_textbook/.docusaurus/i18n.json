@@ -15,7 +15,7 @@
       "path": "en",
       "translate": false,
       "url": "https://hamnakh.github.io",
-      "baseUrl": "/Physical-AI-Humanoid-Robotics-Book-/"
+      "baseUrl": "/Book/"
     },
     "ur": {
       "label": "اردو",
@@ -25,7 +25,7 @@
       "path": "ur",
       "translate": true,
       "url": "https://hamnakh.github.io",
-      "baseUrl": "/Physical-AI-Humanoid-Robotics-Book-/ur/"
+      "baseUrl": "/Book/ur/"
     }
   }
 }

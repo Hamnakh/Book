@@ -5,7 +5,7 @@
   "source": "@site/docs/appendix/resources.md",
   "sourceDirName": "appendix",
   "slug": "/appendix/resources",
-  "permalink": "/Physical-AI-Humanoid-Robotics-Book-/docs/appendix/resources",
+  "permalink": "/Book/docs/appendix/resources",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/appendix/resources.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "References",
-    "permalink": "/Physical-AI-Humanoid-Robotics-Book-/docs/appendix/references"
+    "permalink": "/Book/docs/appendix/references"
   },
   "next": {
     "title": "Physical AI & Humanoid Robotics Textbook",
-    "permalink": "/Physical-AI-Humanoid-Robotics-Book-/docs/intro"
+    "permalink": "/Book/docs/intro"
   }
 }

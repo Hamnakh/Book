@@ -3,157 +3,157 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/Physical-AI-Humanoid-Robotics-Book-/__docusaurus/debug',
-    component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Book-/__docusaurus/debug', 'c63'),
+    path: '/Book/__docusaurus/debug',
+    component: ComponentCreator('/Book/__docusaurus/debug', '0fc'),
     exact: true
   },
   {
-    path: '/Physical-AI-Humanoid-Robotics-Book-/__docusaurus/debug/config',
-    component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Book-/__docusaurus/debug/config', 'f48'),
+    path: '/Book/__docusaurus/debug/config',
+    component: ComponentCreator('/Book/__docusaurus/debug/config', '939'),
     exact: true
   },
   {
-    path: '/Physical-AI-Humanoid-Robotics-Book-/__docusaurus/debug/content',
-    component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Book-/__docusaurus/debug/content', '8fc'),
+    path: '/Book/__docusaurus/debug/content',
+    component: ComponentCreator('/Book/__docusaurus/debug/content', 'e1e'),
     exact: true
   },
   {
-    path: '/Physical-AI-Humanoid-Robotics-Book-/__docusaurus/debug/globalData',
-    component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Book-/__docusaurus/debug/globalData', 'a9a'),
+    path: '/Book/__docusaurus/debug/globalData',
+    component: ComponentCreator('/Book/__docusaurus/debug/globalData', 'aff'),
     exact: true
   },
   {
-    path: '/Physical-AI-Humanoid-Robotics-Book-/__docusaurus/debug/metadata',
-    component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Book-/__docusaurus/debug/metadata', 'b5a'),
+    path: '/Book/__docusaurus/debug/metadata',
+    component: ComponentCreator('/Book/__docusaurus/debug/metadata', '154'),
     exact: true
   },
   {
-    path: '/Physical-AI-Humanoid-Robotics-Book-/__docusaurus/debug/registry',
-    component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Book-/__docusaurus/debug/registry', '07f'),
+    path: '/Book/__docusaurus/debug/registry',
+    component: ComponentCreator('/Book/__docusaurus/debug/registry', 'eaa'),
     exact: true
   },
   {
-    path: '/Physical-AI-Humanoid-Robotics-Book-/__docusaurus/debug/routes',
-    component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Book-/__docusaurus/debug/routes', '47f'),
+    path: '/Book/__docusaurus/debug/routes',
+    component: ComponentCreator('/Book/__docusaurus/debug/routes', 'a9b'),
     exact: true
   },
   {
-    path: '/Physical-AI-Humanoid-Robotics-Book-/docs',
-    component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Book-/docs', 'c82'),
+    path: '/Book/docs',
+    component: ComponentCreator('/Book/docs', 'ace'),
     routes: [
       {
-        path: '/Physical-AI-Humanoid-Robotics-Book-/docs',
-        component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Book-/docs', '487'),
+        path: '/Book/docs',
+        component: ComponentCreator('/Book/docs', '370'),
         routes: [
           {
-            path: '/Physical-AI-Humanoid-Robotics-Book-/docs',
-            component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Book-/docs', '0b4'),
+            path: '/Book/docs',
+            component: ComponentCreator('/Book/docs', '633'),
             routes: [
               {
-                path: '/Physical-AI-Humanoid-Robotics-Book-/docs/advanced-ai-control/module-5-advanced-ai',
-                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Book-/docs/advanced-ai-control/module-5-advanced-ai', '73f'),
+                path: '/Book/docs/advanced-ai-control/module-5-advanced-ai',
+                component: ComponentCreator('/Book/docs/advanced-ai-control/module-5-advanced-ai', 'eea'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Physical-AI-Humanoid-Robotics-Book-/docs/appendix/glossary',
-                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Book-/docs/appendix/glossary', 'd62'),
+                path: '/Book/docs/appendix/glossary',
+                component: ComponentCreator('/Book/docs/appendix/glossary', '0ed'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Physical-AI-Humanoid-Robotics-Book-/docs/appendix/references',
-                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Book-/docs/appendix/references', 'ce5'),
+                path: '/Book/docs/appendix/references',
+                component: ComponentCreator('/Book/docs/appendix/references', '5fc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Physical-AI-Humanoid-Robotics-Book-/docs/appendix/resources',
-                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Book-/docs/appendix/resources', 'd76'),
+                path: '/Book/docs/appendix/resources',
+                component: ComponentCreator('/Book/docs/appendix/resources', '83e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Physical-AI-Humanoid-Robotics-Book-/docs/hardware-basics/module-3-hardware',
-                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Book-/docs/hardware-basics/module-3-hardware', 'eac'),
+                path: '/Book/docs/hardware-basics/module-3-hardware',
+                component: ComponentCreator('/Book/docs/hardware-basics/module-3-hardware', '977'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Physical-AI-Humanoid-Robotics-Book-/docs/humanoid-design/module-6-humanoid-design',
-                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Book-/docs/humanoid-design/module-6-humanoid-design', '3fc'),
+                path: '/Book/docs/humanoid-design/module-6-humanoid-design',
+                component: ComponentCreator('/Book/docs/humanoid-design/module-6-humanoid-design', 'b29'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Physical-AI-Humanoid-Robotics-Book-/docs/intro',
-                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Book-/docs/intro', '684'),
+                path: '/Book/docs/intro',
+                component: ComponentCreator('/Book/docs/intro', 'be5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Physical-AI-Humanoid-Robotics-Book-/docs/introduction/intro',
-                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Book-/docs/introduction/intro', '0fd'),
+                path: '/Book/docs/introduction/intro',
+                component: ComponentCreator('/Book/docs/introduction/intro', '38f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Physical-AI-Humanoid-Robotics-Book-/docs/ros2-foundations/module-1-ros2',
-                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Book-/docs/ros2-foundations/module-1-ros2', 'a6f'),
+                path: '/Book/docs/ros2-foundations/module-1-ros2',
+                component: ComponentCreator('/Book/docs/ros2-foundations/module-1-ros2', '762'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Physical-AI-Humanoid-Robotics-Book-/docs/ros2-foundations/ros2-hands-on',
-                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Book-/docs/ros2-foundations/ros2-hands-on', 'b71'),
+                path: '/Book/docs/ros2-foundations/ros2-hands-on',
+                component: ComponentCreator('/Book/docs/ros2-foundations/ros2-hands-on', 'ed5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Physical-AI-Humanoid-Robotics-Book-/docs/simulation/digital-twins',
-                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Book-/docs/simulation/digital-twins', 'c23'),
+                path: '/Book/docs/simulation/digital-twins',
+                component: ComponentCreator('/Book/docs/simulation/digital-twins', '55e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Physical-AI-Humanoid-Robotics-Book-/docs/simulation/gazebo-unity',
-                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Book-/docs/simulation/gazebo-unity', 'bdc'),
+                path: '/Book/docs/simulation/gazebo-unity',
+                component: ComponentCreator('/Book/docs/simulation/gazebo-unity', 'd14'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Physical-AI-Humanoid-Robotics-Book-/docs/simulation/module-2-simulation',
-                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Book-/docs/simulation/module-2-simulation', 'd4b'),
+                path: '/Book/docs/simulation/module-2-simulation',
+                component: ComponentCreator('/Book/docs/simulation/module-2-simulation', '86a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Physical-AI-Humanoid-Robotics-Book-/docs/vla-systems/module-4-vla-foundations',
-                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Book-/docs/vla-systems/module-4-vla-foundations', 'b7f'),
+                path: '/Book/docs/vla-systems/module-4-vla-foundations',
+                component: ComponentCreator('/Book/docs/vla-systems/module-4-vla-foundations', 'e00'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Physical-AI-Humanoid-Robotics-Book-/docs/vla-systems/vla-action',
-                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Book-/docs/vla-systems/vla-action', '0d6'),
+                path: '/Book/docs/vla-systems/vla-action',
+                component: ComponentCreator('/Book/docs/vla-systems/vla-action', '816'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Physical-AI-Humanoid-Robotics-Book-/docs/vla-systems/vla-hands-on-basic',
-                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Book-/docs/vla-systems/vla-hands-on-basic', '336'),
+                path: '/Book/docs/vla-systems/vla-hands-on-basic',
+                component: ComponentCreator('/Book/docs/vla-systems/vla-hands-on-basic', 'a71'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Physical-AI-Humanoid-Robotics-Book-/docs/vla-systems/vla-language',
-                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Book-/docs/vla-systems/vla-language', '190'),
+                path: '/Book/docs/vla-systems/vla-language',
+                component: ComponentCreator('/Book/docs/vla-systems/vla-language', '429'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Physical-AI-Humanoid-Robotics-Book-/docs/vla-systems/vla-vision',
-                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Book-/docs/vla-systems/vla-vision', '25d'),
+                path: '/Book/docs/vla-systems/vla-vision',
+                component: ComponentCreator('/Book/docs/vla-systems/vla-vision', '176'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -164,8 +164,8 @@ export default [
     ]
   },
   {
-    path: '/Physical-AI-Humanoid-Robotics-Book-/',
-    component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Book-/', '4f2'),
+    path: '/Book/',
+    component: ComponentCreator('/Book/', '3b1'),
     exact: true
   },
   {
