@@ -14,7 +14,7 @@
       "calendar": "gregory",
       "path": "en",
       "translate": false,
-      "url": "https://muzaffar4011.github.io",
+      "url": "https://hamnakh.github.io",
       "baseUrl": "/Physical-AI-Humanoid-Robotics-Book-/"
     },
     "ur": {
@@ -24,7 +24,7 @@
       "calendar": "gregory",
       "path": "ur",
       "translate": true,
-      "url": "https://muzaffar4011.github.io",
+      "url": "https://hamnakh.github.io",
       "baseUrl": "/Physical-AI-Humanoid-Robotics-Book-/ur/"
     }
   }

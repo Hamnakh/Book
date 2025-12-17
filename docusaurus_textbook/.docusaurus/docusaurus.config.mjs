@@ -7,7 +7,7 @@ export default {
   "title": "Physical AI & Humanoid Robotics Textbook",
   "tagline": "Learning Physical AI and Robotics",
   "favicon": "img/favicon.ico",
-  "url": "https://muzaffar4011.github.io",
+  "url": "https://hamnakh.github.io",
   "baseUrl": "/Physical-AI-Humanoid-Robotics-Book-/",
   "organizationName": "Hamnakh",
   "projectName": "Physical-AI-Humanoid-Robotics-Book-",
