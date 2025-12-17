@@ -27,7 +27,7 @@ export default function ChatWidget() {
       // Backend API URL - Update with your actual Render URL
       const API_URL = typeof window !== 'undefined' && window.location.hostname === 'localhost' 
         ? "http://localhost:10000" 
-        : "https://chat-4xqu.onrender.com"; // Your Render backend URL
+        : "https://book-vx2d.onrender.com"; // Your Render backend URL
       
       const res = await axios.post(`${API_URL}/ask`, {
         query: currentInput
